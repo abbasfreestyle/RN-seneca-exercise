@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "topic": "Steven takes out the Trash",
+    "example":"If steven takes out the trash then he will get his allowance.",
+    "cause": "Steven takes out the Trash",
+    "causeImg": "trashCause",
+    "effect": "he gets his allowance",
+    "effectImg": "trashEffect",
+  },{
+    "id": 1,
+    "topic": "Mark was tired",
+    "example":"Mark was tired so he fell asleep in class",
+    "cause": "Mark was tired",
+    "causeImg": "sleepCause",
+    "effect": "He fell asleep in class",
+    "effectImg": "sleepEffect",
+  },{
+    "id": 2,
+    "topic": "If you study hard",
+    "example":"If you study hard, you will pass the test",
+    "cause": "If you study hard",
+    "causeImg": "studyCause",
+    "effect": "You will pass the test",
+    "effectImg": "studyEffect",
+  },{
+    "id": 3,
+    "topic": "Light turned green",
+    "example":"When the light turned green, I crossed the street",
+    "cause": "Light turned green",
+    "causeImg": "greenCause",
+    "effect": "I crossed the road",
+    "effectImg": "greenEffect",
+  },{
+    "id": 4,
+    "topic": "It was hot",
+    "example":"It was hot so I turned on the fan",
+    "cause": "It was hot",
+    "causeImg": "hotCause",
+    "effect": "I turned on the fan",
+    "effectImg": "hotEffect",
+  }
+]
